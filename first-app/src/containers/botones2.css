@@ -1,0 +1,8 @@
+form.form label {
+    width: 85px;
+}
+
+input.submit {
+    background-color: blue;
+    color: white;
+}

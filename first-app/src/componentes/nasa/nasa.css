@@ -1,0 +1,27 @@
+.fecha {
+    font-size: 15px;
+}
+
+.react-datepicker__input-container input {
+    text-align: center;
+}
+
+
+.imagen {
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.imagen img {
+    width: 400px;
+    height: 400px;
+}
+
+.texto {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.link {
+    justify-content: center;
+}
