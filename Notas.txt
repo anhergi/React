@@ -1,0 +1,54 @@
+---------- Notas curso React --------
+
+- ES6
+
+funciones anonimas por bloques --> hacer la variable privada
+Async await --> nos permite ejecutar hilos en paralelo
+
+- Notepad
+
+notepad.pw/cursoreact
+
+
+- Extensiones para Visual Studio
+
+	- Debugger for Chrome *
+	- Live Server
+	- IntelliSense for CSS *
+	- HTML Snippets *
+	- ES7 React/Redux/GraphQL... snippets *
+	- HTML CSS Support
+	- SASS
+	- Bootstrap 4 *
+	- Reactjs code snippets *
+	- Bootstrap 3 snippets *
+	- Live HTML Previewer
+	
+- JSX
+
+Formas de escribir Javascript con elementos del DOM
+
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <p>
+            {/* Edit <code>src/App.js</code> and save to reload. */}
+            {/* Hola {App.world} */}
+            Hola {this.world}
+          </p>
+          <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Learn React
+          </a>
+        </header>
+		
+		
+- DOCKER
+
+	- Contenedores (SO) e Imagenes (ISO)
+	- Docker Hub --> Montar cualquier servidor en docker
+	
+	
